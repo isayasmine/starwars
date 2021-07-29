@@ -1,0 +1,12 @@
+br\com\starwars\api\dto\ResponseDTO.class
+br\com\starwars\api\dto\FilmDTO.class
+br\com\starwars\api\configuration\SwaggerConfiguration.class
+br\com\starwars\api\repository\PlanetaRepository.class
+br\com\starwars\api\StarwarsApplication.class
+br\com\starwars\api\constants\ConstantsPath.class
+br\com\starwars\api\dto\PlanetsDTO.class
+br\com\starwars\api\entity\PlanetaEntity.class
+br\com\starwars\api\dto\PlanetaDTO.class
+br\com\starwars\api\dto\ResidentDTO.class
+br\com\starwars\api\resource\PlanetaResource.class
+br\com\starwars\api\service\PlanetaService.class

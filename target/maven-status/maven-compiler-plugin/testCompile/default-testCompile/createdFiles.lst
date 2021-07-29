@@ -1,0 +1,3 @@
+br\com\starwars\api\starwars\service\PlanetaServiceTest.class
+br\com\starwars\api\starwars\StarwarsApplicationTests.class
+br\com\starwars\api\starwars\resource\PlanetaResourceTest.class

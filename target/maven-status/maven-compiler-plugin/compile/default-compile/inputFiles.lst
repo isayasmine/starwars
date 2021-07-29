@@ -1,0 +1,12 @@
+C:\ambiente\projetos\fellimoura\starwars\src\main\java\br\com\starwars\api\constants\ConstantsPath.java
+C:\ambiente\projetos\fellimoura\starwars\src\main\java\br\com\starwars\api\dto\PlanetsDTO.java
+C:\ambiente\projetos\fellimoura\starwars\src\main\java\br\com\starwars\api\dto\ResidentDTO.java
+C:\ambiente\projetos\fellimoura\starwars\src\main\java\br\com\starwars\api\dto\ResponseDTO.java
+C:\ambiente\projetos\fellimoura\starwars\src\main\java\br\com\starwars\api\entity\PlanetaEntity.java
+C:\ambiente\projetos\fellimoura\starwars\src\main\java\br\com\starwars\api\configuration\SwaggerConfiguration.java
+C:\ambiente\projetos\fellimoura\starwars\src\main\java\br\com\starwars\api\resource\PlanetaResource.java
+C:\ambiente\projetos\fellimoura\starwars\src\main\java\br\com\starwars\api\dto\FilmDTO.java
+C:\ambiente\projetos\fellimoura\starwars\src\main\java\br\com\starwars\api\dto\PlanetaDTO.java
+C:\ambiente\projetos\fellimoura\starwars\src\main\java\br\com\starwars\api\repository\PlanetaRepository.java
+C:\ambiente\projetos\fellimoura\starwars\src\main\java\br\com\starwars\api\service\PlanetaService.java
+C:\ambiente\projetos\fellimoura\starwars\src\main\java\br\com\starwars\api\StarwarsApplication.java
